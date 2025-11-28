@@ -1,4 +1,4 @@
-# Carbon Launcher
+# Carbon Launcher (Not Used Publicly)
 
 > A minimal Fortnite launcher made for Carbon.
 
