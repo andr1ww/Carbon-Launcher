@@ -2,7 +2,7 @@
 
 > A minimal Fortnite launcher made for Carbon.
 
-## Bun.sh or NodeJS
+## Bun.sh or NodeJS 
 
 Launching the project can be done via [Bun.sh](https://bun.sh) or NodeJS.
 
